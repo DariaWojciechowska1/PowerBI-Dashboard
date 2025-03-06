@@ -2,7 +2,7 @@
 📊 Employee Insights Dashboard to interaktywne narzędzie do analizy struktury zatrudnienia w organizacji. Prezentuje kluczowe wskaźniki dotyczące pracowników, ich rodzaju zatrudnienia, wieku, płci, formy wynagrodzenia oraz statystyk związanych z wynagrodzeniami i urlopami.
 
 ## 📂 Pliki  
-- [Pobierz raport Power BI (PBIX)]([https://github.com/DariaWojciechowska1/PowerBI-Dashboard/blob/main/Employee%20Insights_DW.pbix])  
+- [Pobierz raport Power BI (PBIX)](https://github.com/DariaWojciechowska1/PowerBI-Dashboard/blob/main/Employee%20Insights_DW.pbix)
 - 📸 Poniżej przykładowe wizualizacje:  
 
 ![Zrzut ekranu 1](https://github.com/DariaWojciechowska1/PowerBI-Dashboard/blob/main/Employee%20Insights_scr1.png)
